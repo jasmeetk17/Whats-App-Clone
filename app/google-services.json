@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901005466340",
+    "project_id": "whatsapp-clone-cb8ec",
+    "storage_bucket": "whatsapp-clone-cb8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901005466340:android:e16b4ee3f00f95ccdbaaf1",
+        "android_client_info": {
+          "package_name": "com.jroid.bdchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901005466340-h9ksd41jbpnss00vbtbkvrivgklvocni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUvD3olaUz3Q1Wwbw_ogburuOMeQ-Ivw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901005466340-h9ksd41jbpnss00vbtbkvrivgklvocni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
